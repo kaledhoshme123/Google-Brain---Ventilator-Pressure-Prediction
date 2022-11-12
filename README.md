@@ -1,6 +1,8 @@
 # Google Brain - Ventilator Pressure Prediction
 What do doctors do when a patient has trouble breathing? They use a ventilator to pump oxygen into a sedated patient's lungs via a tube in the windpipe. But mechanical ventilation is a clinician-intensive procedure, a limitation that was prominently on display during the early days of the COVID-19 pandemic. At the same time, developing new methods for controlling mechanical ventilators is prohibitively expensive, even before reaching clinical trials. High-quality simulators could reduce this barrier.
 
+![header (1)](https://user-images.githubusercontent.com/108609519/201483257-41eb3799-afbc-447b-8fa6-ac30565c56d5.png)
+
 - Partnering with Princeton University, the team at Google Brain aims to grow the community around machine learning for mechanical ventilation control. They believe that neural networks and deep learning can better generalize across lungs with varying characteristics than the current industry standard of PID controllers.
 
 - I proposed a neural network architecture capable of simulating a ventilator connected to the lung of an anesthetized patient.
