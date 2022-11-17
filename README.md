@@ -11,15 +11,20 @@ The proposed model helps overcome the cost barrier to develop new methods for co
 https://www.kaggle.com/competitions/ventilator-pressure-prediction/overview
 
 # Neural Network Architecture
-![image](https://user-images.githubusercontent.com/108609519/201482772-0f5b43bf-964b-4d86-8c69-8c2590f7f1d0.png)
+![image](https://user-images.githubusercontent.com/108609519/202456223-ebd59234-2a1b-411a-812c-d1b8693a5caa.png)
+
 
 # Result
 ## Loss training data vs Loss Validation data
-![download (86)](https://user-images.githubusercontent.com/108609519/201482804-a6e7e0d6-7fdb-4fe2-9787-76eb2c70e0eb.png)
+![download (90)](https://user-images.githubusercontent.com/108609519/202456329-15151634-1410-4ed1-a208-308850e8ff2c.png)
+
 ## Evaluation Model on all dataset
-![image](https://user-images.githubusercontent.com/108609519/201482953-39a9ab12-a137-497f-9a41-68c7b9db1c6c.png)
+![image](https://user-images.githubusercontent.com/108609519/202456416-e377c768-7818-4a0c-9e20-c203db4c5ace.png)
+
 
 ## Samples for predicting pressure and comparing them with basic pressure values
-![download (87)](https://user-images.githubusercontent.com/108609519/201482815-2b3d37dc-2f38-42d7-8db9-4b04139895ed.png)
-![download (88)](https://user-images.githubusercontent.com/108609519/201482903-633a3810-9bca-40df-844a-1bd4975d21e6.png)
-![download (89)](https://user-images.githubusercontent.com/108609519/201482914-1ff2c4b5-3f79-4312-a223-d8bcc7da5fb0.png)
+![download (91)](https://user-images.githubusercontent.com/108609519/202456516-9b64079b-53b0-4847-87db-2de1e67fd7a5.png)
+![download (92)](https://user-images.githubusercontent.com/108609519/202456556-8bac4764-fa58-48ea-816f-373d7991143e.png)
+![download (93)](https://user-images.githubusercontent.com/108609519/202456614-e74900ea-644e-40a1-9c9f-65f9d0d4c0f9.png)
+![download (94)](https://user-images.githubusercontent.com/108609519/202456671-26b5e45d-2179-4078-83d0-49855c173227.png)
+
